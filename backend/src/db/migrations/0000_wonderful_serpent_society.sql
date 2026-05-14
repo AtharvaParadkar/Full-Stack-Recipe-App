@@ -4,7 +4,7 @@ CREATE TABLE "favorites" (
 	"recipe_id" integer NOT NULL,
 	"title" text NOT NULL,
 	"image" text,
-	"cook_Time" text,
-	"dervings" text,
+	"cook_time" text,
+	"servings" text,
 	"created_at" timestamp DEFAULT now()
 );

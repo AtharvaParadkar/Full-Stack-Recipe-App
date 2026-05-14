@@ -1,5 +1,5 @@
 {
-  "id": "ea683f6d-3ad9-4546-9aa2-23c4d79e867d",
+  "id": "b05eb734-889f-4e30-9c2a-f7d5a09fb02a",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
@@ -38,14 +38,14 @@
           "primaryKey": false,
           "notNull": false
         },
-        "cook_Time": {
-          "name": "cook_Time",
+        "cook_time": {
+          "name": "cook_time",
           "type": "text",
           "primaryKey": false,
           "notNull": false
         },
-        "dervings": {
-          "name": "dervings",
+        "servings": {
+          "name": "servings",
           "type": "text",
           "primaryKey": false,
           "notNull": false
